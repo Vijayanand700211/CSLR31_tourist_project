@@ -1,4 +1,4 @@
-# Compilation and Execution Instructions
+# To Compilation and Execution 
 
 This guide outlines how to compile and run the project on a Linux system using the provided `Makefile`.
 
